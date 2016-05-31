@@ -11,11 +11,6 @@
       <option name="USE_RELATIVE_INDENTS" value="false" />
     </value>
   </option>
-  <codeStyleSettings language="Blade">
-    <indentOptions>
-      <option name="USE_TAB_CHARACTER" value="true" />
-    </indentOptions>
-  </codeStyleSettings>
   <codeStyleSettings language="CSS">
     <indentOptions>
       <option name="USE_TAB_CHARACTER" value="true" />
