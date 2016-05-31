@@ -16,7 +16,7 @@
   </XML>
   <codeStyleSettings language="Blade">
     <indentOptions>
-      <option name="USE_TAB_CHARACTER" value="true" />
+      <option name="USE_TAB_CHARACTER" value="false" />
     </indentOptions>
   </codeStyleSettings>
   <codeStyleSettings language="CSS">
