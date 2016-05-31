@@ -1,0 +1,12 @@
+<application>
+  <component name="MessDetector">
+    <phpmd_settings>
+      <MessDetectorConfiguration timeout="30000" tool_path="/usr/local/bin/phpmd" />
+    </phpmd_settings>
+  </component>
+  <component name="PhpCodeSniffer">
+    <phpcs_settings>
+      <PhpCSConfiguration standards="MySource;PEAR;PHPCS;PSR1;PSR2;Squiz;Zend" timeout="30000" tool_path="/usr/local/bin/phpcs" />
+    </phpcs_settings>
+  </component>
+</application>
