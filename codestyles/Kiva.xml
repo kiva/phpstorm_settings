@@ -63,6 +63,7 @@
     <option name="METHOD_BRACE_STYLE" value="1" />
     <indentOptions>
       <option name="USE_TAB_CHARACTER" value="true" />
+      <option name="SMART_TABS" value="true" />
     </indentOptions>
   </codeStyleSettings>
   <codeStyleSettings language="SASS">
