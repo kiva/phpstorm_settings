@@ -1,12 +1,12 @@
 <application>
   <component name="MessDetector">
     <phpmd_settings>
-      <MessDetectorConfiguration />
+      <MessDetectorConfiguration tool_path="/Volumes/kiva/main/vendor/bin/phpmd" />
     </phpmd_settings>
   </component>
   <component name="PhpCodeSniffer">
     <phpcs_settings>
-      <PhpCSConfiguration />
+      <PhpCSConfiguration tool_path="/Volumes/kiva/main/vendor/bin/phpcs" />
     </phpcs_settings>
   </component>
 </application>
