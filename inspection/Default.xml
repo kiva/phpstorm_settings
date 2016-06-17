@@ -1,3 +1,8 @@
 <inspections profile_name="Default" version="1.0">
   <option name="myName" value="Default" />
+  <inspection_tool class="MessDetectorValidationInspection" enabled="true" level="INFO" enabled_by_default="true">
+    <option name="CODESIZE" value="true" />
+    <option name="CONTROVERSIAL" value="true" />
+  </inspection_tool>
+  <inspection_tool class="PhpCSValidationInspection" enabled="true" level="INFO" enabled_by_default="true" />
 </inspections>
