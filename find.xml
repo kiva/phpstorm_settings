@@ -1,10 +1,10 @@
 <application>
   <component name="FindSettings">
     <option name="caseSensitive" value="true" />
-    <option name="customScope" value="viewers/views" />
-    <option name="defaultScopeName" value="viewers/views" />
+    <option name="customScope" value="Project 'main'" />
+    <option name="defaultScopeName" value="Project 'main'" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="viewers/views" />
+    <option name="SEARCH_SCOPE" value="Project 'main'" />
     <option name="FILE_MASK" value="*.php" />
     <recentFileMasks>
       <mask>*.properties</mask>
