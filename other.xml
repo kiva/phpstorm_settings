@@ -51,6 +51,20 @@
         </selected-state>
       </profile-state>
     </entry>
+    <entry key="Kiva_Inspections">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>BashSupport</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
     <entry key="ellikiva">
       <profile-state>
         <expanded-state>
