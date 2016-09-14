@@ -1,7 +1,9 @@
 <application>
   <component name="FindSettings">
+    <option name="caseSensitive" value="true" />
     <option name="customScope" value="temp" />
     <option name="defaultScopeName" value="temp" />
+    <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="temp" />
     <option name="FILE_MASK" value="*.php" />
     <recentFileMasks>
