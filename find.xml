@@ -1,11 +1,13 @@
 <application>
   <component name="FindSettings">
+    <option name="caseSensitive" value="true" />
     <option name="customScope" value="temp" />
     <option name="defaultScopeName" value="temp" />
     <option name="localCaseSensitive" value="true" />
+    <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="temp" />
-    <option name="FILE_MASK" value="*.php" />
+    <option name="FILE_MASK" value="*.php,*.tpl" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -18,6 +20,7 @@
       <mask>*.mxml</mask>
       <mask>*.tpl</mask>
       <mask>*.php</mask>
+      <mask>*.php,*.tpl</mask>
     </recentFileMasks>
   </component>
 </application>
